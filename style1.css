@@ -1,6 +1,6 @@
 header{
     text-align: center;
     background-color: black;
-    border: 3px double navy;
-    border: radius 20px;
+    border: 7px double navy;
+    border-radius:20px;
 }
